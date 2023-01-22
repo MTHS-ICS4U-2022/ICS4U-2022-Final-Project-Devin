@@ -4,6 +4,8 @@
 ### Descrpiton
 This is a colorscheme designed to be used by people who specisfically have red-green colorblindness. It is currently unfinished in this state as i dont quite have the knowledge to know how to properly run it in my neovim set up. However I do know the colors will work for someone who is red green colorblind as I am.
 
+colours.vim is just another example of a colorscheme from this git hub repo: https://github.com/romainl/vim-dichromatic
+
 ### Research
 I got some of the color ideas from this website: https://www.visualisingdata.com/2019/08/five-ways-to-design-for-red-green-colour-blindness/ 
 The full colorscheme is as follows. 
