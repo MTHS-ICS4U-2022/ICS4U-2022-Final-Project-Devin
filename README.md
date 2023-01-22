@@ -7,7 +7,7 @@ This is a colorscheme designed to be used by people who specisfically have red-g
 ### Research
 I got some of the color ideas from this website: https://www.visualisingdata.com/2019/08/five-ways-to-design-for-red-green-colour-blindness/ 
 The full colorscheme is as follows. 
-![Screenshot](readme extras/image.png)
+![Screenshot](./readme extras/image.png)
 
 
 ### Credit
